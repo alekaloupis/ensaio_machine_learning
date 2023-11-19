@@ -69,35 +69,35 @@ Nos dados de classificação, a Logistic Regression apresentou performance melho
 
 ### a)	Dados de treinamento
 
-![classificacao-treinamento](img/classificao_dados_treinamento.png)
+![classificacao-treinamento](img/classificacao_dados_treinamento.png)
  
 
 ### b)	Dados de validação 
  
-![classificacao-validacao](img/classificao_dados_validacao.png)
+![classificacao-validacao](img/classificacao_dados_validacao.png)
 
 
 ### c)	Dados de teste
  
-![classificacao-teste](img/classificao_dados_teste.png)
+![classificacao-teste](img/classificacao_dados_teste.png)
 
 
 ### Ensaio de regressão 
 
 ### a)	Dados de treinamento
 
- ![regressao-treinamento](img/classificao_dados_treinamento.png)
+ ![regressao-treinamento](img/regressao_dados_treinamento.png)
 
 
 ### b)	Dados de validação 
  
-![regressao-validacao](img/classificao_dados_validacao.png)
+![regressao-validacao](img/regressao_dados_validacao.png)
 
 
 
 ### c)	Dados de teste
 
- ![regressao-teste](img/classificao_dados_teste.png)
+ ![regressao-teste](img/regressao_dados_teste.png)
 
 
 
