@@ -14,7 +14,7 @@ O objetivo desse projeto é realizar o ensaio dos parâmetros que controlam o ov
 # 3.	Planejamento da solução
 
 ### 3.1	Produto final
-O produto final será 7 tabelas mostrando a performance dos algoritmos, avaliados usando múltiplas métricas, para 3 conjuntos de dados diferentes: treinamento, validação e teste.
+O produto final será 7 tabelas mostrando a performance dos algoritmos avaliados usando múltiplas métricas para 3 conjuntos de dados diferentes: treinamento, validação e teste.
 
 ### 3.2	Algoritmos ensaiados
 
