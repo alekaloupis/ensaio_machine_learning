@@ -27,15 +27,15 @@ Métricas de performance: Accuracy, Precision, Recall e F1-Score
 
 ### Regressão
 
-Algoritmos: Linear Regression, Decision Tree Regressor, Random Forest Regressor, Polinomial Regression, Linear Regression Lasso, Linear Regression Ridge, Linear Regression Elastic Net, Polinomial Regression Lasso, Polinomial Regression Ridge e Polinomial Regression Elastic Net
+Algoritmos: Linear Regression, Decision Tree Regressor, Random Forest Regressor, Polinomial Regression, Linear Regression Lasso, Linear Regression Ridge, Linear Regression Elastic Net, Polinomial Regression Lasso, Polinomial Regression Ridge e Polinomial Regression Elastic Net.
 
-Métricas de performance: R2, MSE, RMSE, MAE e MAPE
+Métricas de performance: R2, MSE, RMSE, MAE e MAPE.
 
 ### Clusterização
 
-Algoritmos: K-Means e Affinity Propagation
+Algoritmos: K-Means e Affinity Propagation.
 
-Métricas de performance: Silhouette Score
+Métricas de performance: Silhouette Score.
 
 
 
@@ -45,6 +45,7 @@ Métricas de performance: Silhouette Score
 O projeto em questão foi desenvolvido utilizando linguagem de programação Python para treinar cada algoritmo, variar seus principais parâmetros e observar as métricas. O parâmetro ou combinação de parâmetros que obteve a melhor performance serão escolhidos para o treinamento final do algoritmo. 
 
 ### 4.2     O passo a passo
+
 Passo 1: Divisão dos dados em treino, teste e validação.
 
 Passo 2: Treinamento dos algoritmos com os dados de treinamento, utilizando os parâmetros “default”. 
@@ -55,7 +56,7 @@ Passo 4: Medir a performance dos algoritmos treinados com o parâmetro “defaul
 
 Passo 5: Treinar novamente o algoritmo nos dados de treinamento, alterando os valores dos principais parâmetros que controlam o overfitting. Avaliar a performance do modelo treinado nos dados de validação. Repetir esse processo até encontrar o conjunto de parâmetros que apresente a melhor performance sob os dados de validação. 
 
-Passo 6: Unir os dados de treinamento e validação 
+Passo 6: Unir os dados de treinamento e validação.
 
 Passo 7: Retreinar o algoritmo com a união dos dados de treinamento e validação, utilizando os melhores valores para os parâmetros de controle do algoritmo.
 
