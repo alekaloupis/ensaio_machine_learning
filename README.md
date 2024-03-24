@@ -1,8 +1,10 @@
-# ensaio_machine_learning
+
+
+# 1. Ensaio de Machine Learning 
 
 O objetivo desse projeto é realizar o ensaio dos parâmetros que controlam o overffiting de algoritmos de Machine Learning.
 
-# 1. Ensaio de Machine Learning 
+Projeto desenvolvido para a conclusão da disciplina de Fundamentos de Machine Learning da Comunidade DS
 
 # 2.	Problema de negócio
 
